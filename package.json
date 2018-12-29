@@ -1,0 +1,11 @@
+{
+  "name": "digital-legal",
+  "version": "1.0.0",
+  "description": "12/29/2018 - Initialized",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
